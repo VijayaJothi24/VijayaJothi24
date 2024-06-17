@@ -14,4 +14,4 @@ Hello, I am Vijaya from Walthamstow. I hold a Bachelor of Civil Engineering from
 
 ## Fun Fact
 
-I enjoy walking and visiting places in the UK. Currently, I am looking for an apprenticeship role. Please inform me of any opportunities. Thank you for your understanding.
+I enjoy walking and visiting places in the UK. Currently, I am looking for an apprenticeship role. 
