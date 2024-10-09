@@ -1,7 +1,6 @@
 # Vijaya's Profile
 
-Hello, I am Vijaya from Walthamstow. I hold a Bachelor of Civil Engineering from ACCET, Karaikudi. I graduated back in 2004. I am a highly motivated and detail-oriented Civil Engineer.
-
+Hello, I am Vijaya . 
 ## Professional Journey
 
 - Practiced Civil CAD drafting in AutoCAD and ADT Software Applications.
